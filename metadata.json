@@ -1,0 +1,6 @@
+{
+  "name": "PrismVault - Colorful Media & Document Storage",
+  "description": "A complete, colorful website featuring user registration & login with dedicated storage plugins for PDFs, Photos, Documents, and Videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
